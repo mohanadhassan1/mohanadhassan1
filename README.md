@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohanadhassan1
-- 👀 I’m interested in Flutter & Android
-- 🌱 I’m currently learning Dart & Kotlin Android
+- 👀 I’m interested in Odoo
+- 🌱 I’m currently learning Python, Xml, JavaScript, & Odoo
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me, by email mohanadhassan246@gmail.com
 
