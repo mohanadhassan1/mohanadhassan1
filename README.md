@@ -12,8 +12,7 @@ You can click the Preview link to take a look at your changes.
 please find me in the social links below 😅
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mohanadhassan1/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](
-https://twitter.com/mohanadhendawy)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/mohanadhendawy)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://www.facebook.com/mohanadhassan1/)
 ![](https://komarev.com/ghpvc/?username=abdelrahman-saad&style=flat-square&color=blueviolet)
 
