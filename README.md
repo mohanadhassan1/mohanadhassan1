@@ -60,7 +60,7 @@ I am interested in the following areas
 ![Express](https://img.shields.io/badge/EXPRESS-informational?style=flat&logo=express&logoColor=white&color=4AB197)
 ![MongoDB](https://img.shields.io/badge/MONGODB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197)
 ![NoSQL](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
-![MySQL](https://img.shields.io/badge/NOSQL-informational?style=flat&logo=nosql&logoColor=white&color=4AB197)
+![MySQL](https://img.shields.io/badge/MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=4AB197)
 
 
 
