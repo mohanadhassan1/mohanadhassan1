@@ -52,14 +52,16 @@ I am interested in the following areas
 <summary>Programing Skills</summary>
 <br>
 
+![HTML5](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
+![CSS3](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
 ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
-![Java](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
-![C#](https://img.shields.io/badge/C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
+![React]([https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=4AB197](https://img.shields.io/badge/REACT-informational?style=flat&logo=react&logoColor=white&color=4AB197))
+![Angular]([https://img.shields.io/badge/C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197](https://img.shields.io/badge/ANGULAR-informational?style=flat&logo=angular&logoColor=white&color=4AB197))
 ![Dart](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=white&color=4AB197)
 ![MySQL](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4AB197)
-![HTML](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
-![CSS](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
+
+
 ![Flutter](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)
 </details>
 
