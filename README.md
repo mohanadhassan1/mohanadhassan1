@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mohanadhassan1
-- 👀 I’m interested in Odoo
-- 🌱 I’m currently learning Python, Xml, JavaScript, & Odoo
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m a Full Stack using MEARN
 - 📫 How to reach me, by email mohanadhassan246@gmail.com
 
 <!---
