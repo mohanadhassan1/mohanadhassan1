@@ -11,10 +11,10 @@ You can click the Preview link to take a look at your changes.
 # This is Mohanad Hassan 👋
 please find me in the social links below 😅
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abdelrahman-saad27/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mohanadhassan1/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](
-https://twitter.com/AbdelRhmanSaad_)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://www.facebook.com/Abdelrahman.A.Saad.E/)
+https://twitter.com/mohanadhendawy)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://www.facebook.com/mohanadhassan1/)
 ![](https://komarev.com/ghpvc/?username=abdelrahman-saad&style=flat-square&color=blueviolet)
 
 Hello 👋
@@ -22,17 +22,17 @@ Hello 👋
 ## Want to know about me ? ⚽👦
 
 An enthusiastic developer who is consistently looking for new challenges. I am also a Computer Science nerdy 🤓. I am super ambitious to unlock my potential and achieve more in life.
-I want to know all about software development and how to enhance it by the experience i will be gaining as a software engineer.
+I want to know all about software development and how to enhance it by the experience I will be gaining as a software engineer.
 
 I am interested in the following areas 
 
-- [x] 📱 Cross-platform mobile development using Flutter
-- [x] 🔄 Pipelining using Jenkins and Ansible
-- [x] 📜 Scripting using Bash (and GoLang soon)
+- [x] 📱 Full Stack Web Development using MEARN
+- [x] 🔄 Frontend using React JS and Angular
+- [x] 📜 Backend using Express JS
 - [x] ☁️ Deploying projects to cloud provider (AWS mostly)
 - [X] 🏗️ Terraform coding for to create IaC
 - [X] 🛠️ Maintenance of software projects
-- [x] 📦 Docker and Kubernetes
+- [x] 📦 SQL and NoSQL
 - [x] :octocat: Manage projects via Git
 - [x] 🖥️ Monitoring using Prometheus 
 
