@@ -47,9 +47,7 @@ I am interested in the following areas
 ![AWS-Cloud](https://img.shields.io/badge/AWS-cloud-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=4AB197)
 
 
-<details>
-<summary>Programing Skills</summary>
-<br>
+
 ## 🐙👨‍💻 Programming Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
