@@ -20,7 +20,7 @@ Hello 👋
 
 ## Want to know about me ? ⚽👦
 
-An enthusiastic developer who is consistently looking for new challenges. I am also a Computer Science nerdy 🤓. I am super ambitious to unlock my potential and achieve more in life.
+An enthusiastic developer who is consistently looking for new challenges. I am also a Computer Science nerdy 🤓 who has completed ITI training. I am super ambitious to unlock my potential and achieve more in life.
 I want to know all about software development and how to enhance it by the experience I will be gaining as a software engineer.
 
 I am interested in the following areas 
@@ -44,7 +44,7 @@ I am interested in the following areas
 
 
 
-## 🐙👨‍💻 Programming Skills
+## 👨‍💻 Programming Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
 ![CSS3](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
