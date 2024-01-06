@@ -13,6 +13,7 @@ please find me in the social links below 😅
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mohanadhassan1/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/mohanadhendawy)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://www.facebook.com/mohanadhassan1/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://www.facebook.com/mohanadhassan1/)
 ![](https://komarev.com/ghpvc/?username=abdelrahman-saad&style=flat-square&color=blueviolet)
 
@@ -65,6 +66,7 @@ I am interested in the following areas
 
 
 
+<!--
 <details>
 <summary>Soft Skills</summary>
 <br>
@@ -79,6 +81,7 @@ I am interested in the following areas
 
 
 </details>
+-->
 
 
 ## 📌 Top Repositories
@@ -104,10 +107,10 @@ I am interested in the following areas
 
 ## 📈 My GitHub Stats
 
-<a href="https://github.com/abdelrahman-saad">
+<a href="https://github.com/mohanadhassan1">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-saad&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/abdelrahman-saad">
+<a href="https://github.com/mohanadhassan1">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=abdelrahman-saad&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
