@@ -50,6 +50,7 @@ I am interested in the following areas
 <details>
 <summary>Programing Skills</summary>
 <br>
+## 🐙👨‍💻 Programming Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
 ![CSS3](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
