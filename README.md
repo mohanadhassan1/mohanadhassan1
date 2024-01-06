@@ -14,7 +14,6 @@ please find me in the social links below 😅
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mohanadhassan1/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/mohanadhendawy)
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://www.facebook.com/mohanadhassan1/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://www.facebook.com/mohanadhassan1/)
 ![](https://komarev.com/ghpvc/?username=abdelrahman-saad&style=flat-square&color=blueviolet)
 
 Hello 👋
@@ -39,10 +38,6 @@ I am interested in the following areas
 ## 🐙 Skills
 
 ![CI/CD-Jenkins](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
-![Configuration Management-Ansible](https://img.shields.io/badge/Configuration_Management-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=4AB197)
-![DevOps-Docker](https://img.shields.io/badge/Containerization-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![DevOps-Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=4AB197)
-![DevOps-Terraform](https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=4AB197)
 ![Linux-RedHat](https://img.shields.io/badge/Linux-RedHat-informational?style=flat&logo=RedHat&logoColor=white&color=4AB197)
 ![Linux-Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=4AB197)
 ![AWS-Cloud](https://img.shields.io/badge/AWS-cloud-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=4AB197)
