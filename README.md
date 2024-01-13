@@ -35,6 +35,15 @@ I am interested in the following areas
 - [x] :octocat: Manage projects via Git
 - [x] 🖥️ Monitoring using Prometheus 
 
+
+## 🐙 Projects
+
+![CI/CD-Jenkins](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
+![Linux-RedHat](https://img.shields.io/badge/Linux-RedHat-informational?style=flat&logo=RedHat&logoColor=white&color=4AB197)
+![Linux-Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=4AB197)
+![AWS-Cloud](https://img.shields.io/badge/AWS-cloud-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=4AB197)
+
+
 ## 🐙 Skills
 
 ![CI/CD-Jenkins](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
