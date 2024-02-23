@@ -105,27 +105,30 @@ I am interested in the following areas
 
 ## 👨‍💻 Programming Skills
 
-![HTML5](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
-![CSS3](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![TailWindCSS](https://img.shields.io/badge/TailWindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=4AB197)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=4AB197)
-![Sass](https://img.shields.io/badge/Sass-informational?style=flat&logo=sass&logoColor=white&color=4AB197)
-![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
-![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=4AB197)
 ![React](https://img.shields.io/badge/REACT-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![Redux](https://img.shields.io/badge/Redux-informational?style=flat&logo=redux&logoColor=white&color=4AB197)
 ![Next JS](https://img.shields.io/badge/Next%20JS-informational?style=flat&logo=next.js&logoColor=white&color=4AB197)
 ![Angular](https://img.shields.io/badge/ANGULAR-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![JSON](https://img.shields.io/badge/JSON-informational?style=flat&logo=json&logoColor=white&color=4AB197)
-![Git/GitHub](https://img.shields.io/badge/Git/GitHub-informational?style=flat&logo=github&logoColor=white&color=4AB197)
-![Express](https://img.shields.io/badge/EXPRESS-informational?style=flat&logo=express&logoColor=white&color=4AB197)
+![TailWindCSS](https://img.shields.io/badge/TailWindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=4AB197)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=4AB197)
+![HTML5](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
+![CSS3](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![Sass](https://img.shields.io/badge/Sass-informational?style=flat&logo=sass&logoColor=white&color=4AB197)
+![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
+![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=4AB197)
+
+
 ![NodeJS](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=4AB197)
+![Express](https://img.shields.io/badge/EXPRESS-informational?style=flat&logo=express&logoColor=white&color=4AB197)
+![JSON](https://img.shields.io/badge/JSON-informational?style=flat&logo=json&logoColor=white&color=4AB197)
+![RESTful-API](https://img.shields.io/badge/restful%20api-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
+
 ![MongoDB](https://img.shields.io/badge/MONGODB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197)
 ![NoSQL](https://img.shields.io/badge/NOSQL-informational?style=flat&logo=nosql&logoColor=white&color=4AB197)
 ![MySQL](https://img.shields.io/badge/MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=4AB197)
-![RESTful-API](https://img.shields.io/badge/restful%20api-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
-![Webpack](https://img.shields.io/badge/Webpack-informational?style=flat&logo=webpack&logoColor=white&color=4AB197)
 
+![Git/GitHub](https://img.shields.io/badge/Git/GitHub-informational?style=flat&logo=github&logoColor=white&color=4AB197)
+![Webpack](https://img.shields.io/badge/Webpack-informational?style=flat&logo=webpack&logoColor=white&color=4AB197)
 
 ## 📌 Top Repositories
 <br>
