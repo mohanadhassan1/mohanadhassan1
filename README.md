@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 please find me in the social links below 😅
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mohanadhassan1/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/mohanadhendawy)
+<!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/mohanadhendawy) -->
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://www.facebook.com/mohanadhassan1/)
 ![](https://komarev.com/ghpvc/?username=mohanadhassan1&style=flat-square&color=blueviolet)
 
@@ -32,7 +32,7 @@ please find me in the social links below 😅
 
 
 
-Hello 👋
+<!-- Hello 👋 -->
 
 ## Want to know about me ? ⚽👦
 
@@ -44,7 +44,7 @@ I am interested in the following areas
 - [x] 📱 Full Stack Web Development using MEARN
 - [x] 🔄 Frontend using React JS and Angular
 - [x] 📜 Backend using Express JS
-- [x] ☁️ Deploying projects to cloud provider (AWS mostly)
+- [x] ☁️ Deploying projects to cloud provider (Heroku mostly)
 - [X] 🏗️ Terraform coding for to create IaC
 - [X] 🛠️ Maintenance of software projects
 - [x] 📦 SQL and NoSQL
@@ -59,7 +59,7 @@ I am interested in the following areas
 ![Linux-Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=4AB197)
 ![AWS-Cloud](https://img.shields.io/badge/AWS-cloud-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=4AB197)
 
-
+<!--
 ## 🐙 Skills
 
 ![RESTful-API](https://img.shields.io/badge/restful-restful%20api-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
@@ -67,7 +67,7 @@ I am interested in the following areas
 ![Linux-RedHat](https://img.shields.io/badge/Linux-RedHat-informational?style=flat&logo=RedHat&logoColor=white&color=4AB197)
 ![Linux-Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=4AB197)
 ![AWS-Cloud](https://img.shields.io/badge/AWS-cloud-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=4AB197)
-
+-->
 
 
 ## 👨‍💻 Programming Skills
@@ -84,6 +84,7 @@ I am interested in the following areas
 ![MongoDB](https://img.shields.io/badge/MONGODB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197)
 ![NoSQL](https://img.shields.io/badge/NOSQL-informational?style=flat&logo=nosql&logoColor=white&color=4AB197)
 ![MySQL](https://img.shields.io/badge/MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=4AB197)
+![RESTful-API](https://img.shields.io/badge/restful-restful%20api-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
 
 
 
