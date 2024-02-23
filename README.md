@@ -87,10 +87,10 @@ I am interested in the following areas
 
 ## 🐙 Projects
 
-![CI/CD-Jenkins](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
-![Linux-RedHat](https://img.shields.io/badge/Linux-RedHat-informational?style=flat&logo=RedHat&logoColor=white&color=4AB197)
-![Linux-Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=4AB197)
-![AWS-Cloud](https://img.shields.io/badge/AWS-cloud-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=4AB197)
+<p align="left">
+<a href="https://jumia-main-fed2c688ede0.herokuapp.com/" target="blank"><img align="center" src="https://www.jumia.com.eg/assets_he/images/i-shop-jumia.9f5451c7.svg#logo" alt="JumiaClone" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mohanadhassan1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+</p>
 
 <!--
 ## 🐙 Skills
@@ -129,6 +129,7 @@ I am interested in the following areas
 
 ![Git/GitHub](https://img.shields.io/badge/Git/GitHub-informational?style=flat&logo=github&logoColor=white&color=4AB197)
 ![Webpack](https://img.shields.io/badge/Webpack-informational?style=flat&logo=webpack&logoColor=white&color=4AB197)
+![Heroku-Cloud](https://img.shields.io/badge/Heroku-cloud-informational?style=flat&logo=heroku&logoColor=white&color=4AB197)
 
 ## 📌 Top Repositories
 <br>
