@@ -18,7 +18,7 @@ please find me in the social links below 😅
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mohanadhassan1/)
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://www.facebook.com/mohanadhassan1/)
 ![](https://komarev.com/ghpvc/?username=mohanadhassan1&style=flat-square&color=blueviolet)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanadhassan1&label=Profile%20views&color=0e75b6&style=flat" alt="mohanadhassan1" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanadhassan1&label=Profile%20views&color=0e75b6&style=flat" alt="mohanadhassan1" /> </p> -->
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/mohanadhendawy) -->
 
@@ -28,10 +28,6 @@ please find me in the social links below 😅
 <a href="https://www.linkedin.com/in/mohanadhassan1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mohanadhassan1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-
 
 
 
@@ -121,7 +117,7 @@ I am interested in the following areas
 ![MongoDB](https://img.shields.io/badge/MONGODB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197)
 ![NoSQL](https://img.shields.io/badge/NOSQL-informational?style=flat&logo=nosql&logoColor=white&color=4AB197)
 ![MySQL](https://img.shields.io/badge/MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=4AB197)
-![RESTful-API](https://img.shields.io/badge/restful-restful%20api-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
+![RESTful-API](https://img.shields.io/badge/restful%20api-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
 
 
 
