@@ -88,8 +88,12 @@ I am interested in the following areas
 ## 🐙 Projects
 
 <p align="left">
-<a href="https://jumia-main-fed2c688ede0.herokuapp.com/" target="blank"><img align="center" src="https://www.jumia.com.eg/assets_he/images/i-shop-jumia.9f5451c7.svg" alt="JumiaClone" height="30" width="40" /></a>
-<a href="https://react-movie-time-gamma.vercel.app/" target="blank"><img align="center" src="" alt="React" height="30" width="40" /></a>
+<a href="https://mohanadhassan.netlify.app/" target="blank">My_Portfolio</a>
+<a href="https://jumia-main-fed2c688ede0.herokuapp.com/" target="blank">JumiaClone</a>
+<a href="https://react-movie-time-gamma.vercel.app/" target="blank">React_Movie_Time</a>
+<a href="https://mohanadhassan-angular-clickshop.netlify.app/" target="blank">Angular_Click_Shop</a>
+<a href="https://mohanadhassan-shopify-native-js.netlify.app/" target="blank">JavaScript_Shopify</a>
+<a href="https://mohanadhassan-tedx.netlify.app/" target="blank">Bootstrap_TEDx</a>
 </p>
 
 <!--
