@@ -109,9 +109,11 @@ I am interested in the following areas
 ![CSS3](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![TailWindCSS](https://img.shields.io/badge/TailWindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=4AB197)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=4AB197)
+![Sass](https://img.shields.io/badge/Sass-informational?style=flat&logo=sass&logoColor=white&color=4AB197)
 ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
 ![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=4AB197)
 ![React](https://img.shields.io/badge/REACT-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![Redux](https://img.shields.io/badge/Redux-informational?style=flat&logo=redux&logoColor=white&color=4AB197)
 ![Next JS](https://img.shields.io/badge/Next%20JS-informational?style=flat&logo=next.js&logoColor=white&color=4AB197)
 ![Angular](https://img.shields.io/badge/ANGULAR-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![JSON](https://img.shields.io/badge/JSON-informational?style=flat&logo=json&logoColor=white&color=4AB197)
@@ -122,7 +124,7 @@ I am interested in the following areas
 ![NoSQL](https://img.shields.io/badge/NOSQL-informational?style=flat&logo=nosql&logoColor=white&color=4AB197)
 ![MySQL](https://img.shields.io/badge/MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=4AB197)
 ![RESTful-API](https://img.shields.io/badge/restful%20api-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
-
+![Webpack](https://img.shields.io/badge/Webpack-informational?style=flat&logo=webpack&logoColor=white&color=4AB197)
 
 
 ## 📌 Top Repositories
